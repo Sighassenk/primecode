@@ -7,7 +7,7 @@ export function StatusBar() {
             <text attributes={TextAttributes.DIM} fg="gray">
                 &#8250;
             </text>
-            <text>opus-4-6</text>
+            <text marginRight={"45%"}>opus-4-6</text>
         </box>
     );
 }
